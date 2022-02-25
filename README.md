@@ -1,2 +1,2 @@
 # DataQuest Project Portfolio
-These are all the projects that I completed as a part of the DataQuest learning guide.
+Outlined are the most recent projects completed as a part of the DataQuest_Data Scientist learning curriculum.
